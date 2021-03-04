@@ -219,7 +219,7 @@ function esVocal(letra){
       case "i": return "Es vocal"; break;
       case "o": return "Es vocal"; break;
       case "u": return "Es vocal"; break;
-      default:  return "Dato incorrecto"; break;
+      default:  return "Es vocal"; break;
     }
   }
   else return "Dato incorrecto"; 
